@@ -1,0 +1,9 @@
+{
+  "dailyNewSyncsLimit": 0,
+  "maxSyncs": 0,
+  "location": "vn",
+  "maxSyncSize": 102400000,
+  "db": {
+    "host": "db"
+  }
+}
